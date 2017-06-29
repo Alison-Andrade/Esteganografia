@@ -1,8 +1,6 @@
 # Esteganografia
 Projeto final das disciplinas de ITP e PTP
 
-Projeto de conclusão das disciplinas de Introdução as Técnicas de Programação e Praticas de Técnicas de Programação.
-
 ------------------------------------------------Esteganografia----------------------------------------------
 
 	-Foram implementadas as funcionalidades de codificação e decodificação de mensagens em imagens nos formatos PPM e BMP, também.
