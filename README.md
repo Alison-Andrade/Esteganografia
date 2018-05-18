@@ -14,7 +14,7 @@ Projeto final das disciplinas de ITP e PTP
 	-EXECUÇÃO
 	
 		Codificar:
-			./steg -e -i "arquivo de texto" -f "formato (ppm ou pmp)" "imagem"
+			./steg -e -i "arquivo de texto" -f "formato (ppm ou bmp)" "imagem"
 			
 			-e: indica que o programa executará em modo codificador;
 			-i: recebe como parâmetro o arquivo de texto que contem sua mensagem;
